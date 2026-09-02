@@ -1,0 +1,8 @@
+check,passed
+4 scenarios simulated,True
+10 runs per scenario,True
+6 weeks per run,True
+no negative demand,True
+sold <= demand,True
+stockout = demand - sold,True
+service level 0-100,True
