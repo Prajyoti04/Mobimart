@@ -1,0 +1,9 @@
+check,passed
+budget <= ₹4 crore,True
+non-negative allocation,True
+integer allocations,True
+allocation <= forecast,True
+no invalid product price,True
+all stores represented,True
+all models represented,True
+no duplicate store-model,True

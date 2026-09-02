@@ -1,0 +1,24 @@
+model_id,model_name,category,price,successor_model_id,successor_launch_week,successor_available,lifecycle_status,eol_score,recent6_chain_avg_units,planning_inventory_units,clearance_units,markdown_pct,recommended_clearance_price,clearance_value_before,clearance_value_after,markdown_value_impact,transition_action
+MD011,Halex Max,Entry,12100.0,MD012,42.0,True,EOL_RECOMMEND,0.7833333333333333,0.10666666666666667,1,1,0.25,9075.0,12100.0,9075.0,3025.0,Stop replenishment; markdown residual stock; shift new demand to successor
+MD049,Zentro Nova,Premium,70500.0,MD050,44.0,True,EOL_RECOMMEND,0.7708333333333333,0.12666666666666668,1,1,0.25,52875.0,70500.0,52875.0,17625.0,Stop replenishment; markdown residual stock; shift new demand to successor
+MD051,Kryon Orbit,Premium,82400.0,MD052,44.0,True,EOL_RECOMMEND,0.7694444444444444,0.06666666666666667,1,1,0.25,61800.0,82400.0,61800.0,20600.0,Stop replenishment; markdown residual stock; shift new demand to successor
+MD018,Corvo Pixel,Budget,15900.0,MD019,14.0,True,EOL_RECOMMEND,0.7666666666666666,0.13333333333333333,1,1,0.25,11925.0,15900.0,11925.0,3975.0,Stop replenishment; markdown residual stock; shift new demand to successor
+MD026,Halex Ace,Mid-range,31900.0,MD027,33.0,True,EOL_RECOMMEND,0.7625,0.04666666666666667,1,1,0.25,23925.0,31900.0,23925.0,7975.0,Stop replenishment; markdown residual stock; shift new demand to successor
+MD040,Orbil Vibe,Upper-mid,60000.0,,,False,EOL_RECOMMEND,0.75,0.0,0,0,0.2,48000.0,0.0,0.0,0.0,Stop replenishment; markdown residual stock; review clearance
+MD059,Vantix Arc,Flagship,128600.0,,,False,EOL_RECOMMEND,0.75,0.0,0,0,0.2,102880.0,0.0,0.0,0.0,Stop replenishment; markdown residual stock; review clearance
+MD025,Orbil Neo,Budget,16000.0,,,False,EOL_RECOMMEND,0.7458333333333333,0.006666666666666667,1,1,0.2,12800.0,16000.0,12800.0,3200.0,Stop replenishment; markdown residual stock; review clearance
+MD009,Orbil Ember,Entry,11500.0,MD010,39.0,True,EOL_RECOMMEND,0.7333333333333333,0.18666666666666668,1,1,0.25,8625.0,11500.0,8625.0,2875.0,Stop replenishment; markdown residual stock; shift new demand to successor
+MD057,Nubira Pulse,Flagship,119700.0,MD058,51.0,True,WATCH,0.6666666666666667,0.10666666666666667,1,1,0.1,107730.0,119700.0,107730.0,11970.0,Reduce replenishment; monitor predecessor/successor split
+MD015,Nubira Fuse,Budget,16700.0,MD016,40.0,True,WATCH,0.6458333333333333,0.32666666666666666,1,1,0.1,15030.0,16700.0,15030.0,1670.0,Reduce replenishment; monitor predecessor/successor split
+MD029,Ferno Prime,Mid-range,31600.0,MD030,13.0,True,WATCH,0.6416666666666666,0.013333333333333334,1,1,0.1,28440.0,31600.0,28440.0,3160.0,Reduce replenishment; monitor predecessor/successor split
+MD034,Corvo Drift,Mid-range,44100.0,MD035,19.0,True,WATCH,0.6263888888888889,0.04666666666666667,1,1,0.1,39690.0,44100.0,39690.0,4410.0,Reduce replenishment; monitor predecessor/successor split
+MD033,Vantix Bolt,Mid-range,36100.0,,,False,WATCH,0.5916666666666667,0.013333333333333334,1,1,0.1,32490.0,36100.0,32490.0,3610.0,Monitor; no immediate markdown
+MD008,Kryon Loop,Entry,8500.0,,,False,WATCH,0.5916666666666667,0.013333333333333334,1,1,0.1,7650.0,8500.0,7650.0,850.0,Monitor; no immediate markdown
+MD037,Zentro Volt,Mid-range,35400.0,MD038,44.0,True,WATCH,0.5450413223140496,0.4666666666666667,1,1,0.1,31860.0,35400.0,31860.0,3540.0,Reduce replenishment; monitor predecessor/successor split
+MD020,Zentro Wave,Budget,19500.0,MD021,35.0,True,WATCH,0.5379901960784312,0.24666666666666667,1,1,0.1,17550.0,19500.0,17550.0,1950.0,Reduce replenishment; monitor predecessor/successor split
+MD043,Nubira Edge,Upper-mid,59500.0,MD044,49.0,True,WATCH,0.5200980392156862,0.25333333333333335,1,1,0.1,53550.0,59500.0,53550.0,5950.0,Reduce replenishment; monitor predecessor/successor split
+MD031,Nubira Spark,Mid-range,38400.0,MD032,-10.0,True,WATCH,0.4833333333333333,0.02666666666666667,1,1,0.1,34560.0,38400.0,34560.0,3840.0,Reduce replenishment; monitor predecessor/successor split
+MD006,Zentro Arc,Entry,13100.0,MD007,52.0,True,WATCH,0.4759090909090909,0.9933333333333333,2,2,0.1,11790.0,26200.0,23580.0,2620.0,Reduce replenishment; monitor predecessor/successor split
+MD048,Corvo Peak,Upper-mid,59900.0,,,False,WATCH,0.475,0.2,1,1,0.1,53910.0,59900.0,53910.0,5990.0,Monitor; no immediate markdown
+MD023,Kryon Core,Budget,21300.0,MD024,9.0,True,WATCH,0.475,0.04,1,1,0.1,19170.0,21300.0,19170.0,2130.0,Reduce replenishment; monitor predecessor/successor split
+MD045,Vantix Air,Upper-mid,52500.0,MD046,17.0,True,WATCH,0.4708333333333333,0.04666666666666667,1,1,0.1,47250.0,52500.0,47250.0,5250.0,Reduce replenishment; monitor predecessor/successor split

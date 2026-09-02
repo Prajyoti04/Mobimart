@@ -1,0 +1,61 @@
+model_id,brand,model_name,category,price,launch_week,launch_date,lifecycle_stage,successor_model_id,peak_week_offset,decline_rate
+MD001,Nubira,Nubira Crest,Keypad,7600.0,1,2024-09-02,Decline,,9,0.0779
+MD002,Vantix,Vantix Halo,Keypad,7900.0,6,2024-10-07,Decline,MD003,9,0.0497
+MD003,Vantix,Vantix Halo 2,Keypad,6300.0,50,2025-08-11,Launch,MD004,9,0.0742
+MD004,Vantix,Vantix Halo 3,Keypad,8800.0,104,2026-08-24,Not Yet Launched,,10,0.0585
+MD005,Corvo,Corvo Pulse,Entry,11600.0,-52,2023-08-28,Decline,,9,0.0513
+MD006,Zentro,Zentro Arc,Entry,13100.0,1,2024-09-02,Decline,MD007,10,0.0556
+MD007,Zentro,Zentro Arc 2,Entry,14300.0,52,2025-08-25,Launch,,10,0.0544
+MD008,Kryon,Kryon Loop,Entry,8500.0,-40,2023-11-20,Decline,,10,0.0793
+MD009,Orbil,Orbil Ember,Entry,11500.0,1,2024-09-02,Decline,MD010,9,0.0684
+MD010,Orbil,Orbil Ember 2,Entry,9800.0,39,2025-05-26,Decline,,8,0.0636
+MD011,Halex,Halex Max,Entry,12100.0,-10,2024-06-17,Decline,MD012,9,0.068
+MD012,Halex,Halex Max 2,Entry,9100.0,42,2025-06-16,Peak,MD013,8,0.0507
+MD013,Halex,Halex Max 3,Entry,14500.0,84,2026-04-06,Not Yet Launched,,9,0.0429
+MD014,Ferno,Ferno Sol,Budget,20600.0,-10,2024-06-17,Decline,,8,0.0792
+MD015,Nubira,Nubira Fuse,Budget,16700.0,1,2024-09-02,Decline,MD016,9,0.0411
+MD016,Nubira,Nubira Fuse 2,Budget,23300.0,40,2025-06-02,Peak,,8,0.0481
+MD017,Vantix,Vantix Flux,Budget,19500.0,-4,2024-07-29,Decline,,9,0.0591
+MD018,Corvo,Corvo Pixel,Budget,15900.0,-30,2024-01-29,Decline,MD019,8,0.0459
+MD019,Corvo,Corvo Pixel 2,Budget,25600.0,14,2024-12-02,Decline,,10,0.0533
+MD020,Zentro,Zentro Wave,Budget,19500.0,-4,2024-07-29,Decline,MD021,10,0.0536
+MD021,Zentro,Zentro Wave 2,Budget,25200.0,35,2025-04-28,Decline,MD022,8,0.0501
+MD022,Zentro,Zentro Wave 3,Budget,21400.0,85,2026-04-13,Not Yet Launched,,8,0.0828
+MD023,Kryon,Kryon Core,Budget,21300.0,-30,2024-01-29,Decline,MD024,10,0.0692
+MD024,Kryon,Kryon Core 2,Budget,16600.0,9,2024-10-28,Decline,,9,0.0421
+MD025,Orbil,Orbil Neo,Budget,16000.0,-52,2023-08-28,Decline,,9,0.0694
+MD026,Halex,Halex Ace,Mid-range,31900.0,-10,2024-06-17,Decline,MD027,8,0.0695
+MD027,Halex,Halex Ace 2,Mid-range,46300.0,33,2025-04-14,Decline,MD028,8,0.0791
+MD028,Halex,Halex Ace 3,Mid-range,36500.0,72,2026-01-12,Not Yet Launched,,8,0.0869
+MD029,Ferno,Ferno Prime,Mid-range,31600.0,-40,2023-11-20,Decline,MD030,9,0.066
+MD030,Ferno,Ferno Prime 2,Mid-range,27200.0,13,2024-11-25,Decline,,9,0.0848
+MD031,Nubira,Nubira Spark,Mid-range,38400.0,-52,2023-08-28,Decline,MD032,8,0.0541
+MD032,Nubira,Nubira Spark 2,Mid-range,42200.0,-10,2024-06-17,Decline,,9,0.0454
+MD033,Vantix,Vantix Bolt,Mid-range,36100.0,-52,2023-08-28,Decline,,10,0.0585
+MD034,Corvo,Corvo Drift,Mid-range,44100.0,-30,2024-01-29,Decline,MD035,10,0.0545
+MD035,Corvo,Corvo Drift 2,Mid-range,32400.0,19,2025-01-06,Decline,MD036,9,0.0482
+MD036,Corvo,Corvo Drift 3,Mid-range,36400.0,66,2025-12-01,Not Yet Launched,,8,0.0846
+MD037,Zentro,Zentro Volt,Mid-range,35400.0,6,2024-10-07,Decline,MD038,10,0.0558
+MD038,Zentro,Zentro Volt 2,Mid-range,39900.0,44,2025-06-30,Growth,,10,0.0447
+MD039,Kryon,Kryon Glide,Upper-mid,51000.0,6,2024-10-07,Decline,,10,0.0461
+MD040,Orbil,Orbil Vibe,Upper-mid,60000.0,-40,2023-11-20,Decline,,10,0.0837
+MD041,Halex,Halex Ray,Upper-mid,69300.0,-4,2024-07-29,Decline,,8,0.065
+MD042,Ferno,Ferno Zephyr,Upper-mid,48300.0,-40,2023-11-20,Decline,,8,0.0739
+MD043,Nubira,Nubira Edge,Upper-mid,59500.0,-4,2024-07-29,Decline,MD044,8,0.05
+MD044,Nubira,Nubira Edge 2,Upper-mid,66900.0,49,2025-08-04,Growth,,10,0.0466
+MD045,Vantix,Vantix Air,Upper-mid,52500.0,-30,2024-01-29,Decline,MD046,8,0.0644
+MD046,Vantix,Vantix Air 2,Upper-mid,71500.0,17,2024-12-23,Decline,MD047,9,0.0862
+MD047,Vantix,Vantix Air 3,Upper-mid,62300.0,63,2025-11-10,Not Yet Launched,,8,0.0453
+MD048,Corvo,Corvo Peak,Upper-mid,59900.0,12,2024-11-18,Decline,,8,0.0867
+MD049,Zentro,Zentro Nova,Premium,70500.0,1,2024-09-02,Decline,MD050,10,0.0455
+MD050,Zentro,Zentro Nova 2,Premium,97100.0,44,2025-06-30,Growth,,10,0.0665
+MD051,Kryon,Kryon Orbit,Premium,82400.0,-10,2024-06-17,Decline,MD052,9,0.0587
+MD052,Kryon,Kryon Orbit 2,Premium,96000.0,44,2025-06-30,Growth,MD053,9,0.0627
+MD053,Kryon,Kryon Orbit 3,Premium,82100.0,91,2026-05-25,Not Yet Launched,,8,0.0808
+MD054,Orbil,Orbil Zen,Premium,74400.0,-10,2024-06-17,Decline,,8,0.0812
+MD055,Halex,Halex Crest,Premium,75000.0,6,2024-10-07,Decline,,8,0.0542
+MD056,Ferno,Ferno Halo,Flagship,102800.0,-52,2023-08-28,Decline,,8,0.0487
+MD057,Nubira,Nubira Pulse,Flagship,119700.0,-4,2024-07-29,Decline,MD058,8,0.0559
+MD058,Nubira,Nubira Pulse 2,Flagship,150000.0,51,2025-08-18,Launch,,9,0.0422
+MD059,Vantix,Vantix Arc,Flagship,128600.0,-40,2023-11-20,Decline,,8,0.0608
+MD060,Corvo,Corvo Loop,Flagship,105100.0,-20,2024-04-08,Decline,,8,0.0817

@@ -1,0 +1,7 @@
+check,passed
+all products represented,True
+no duplicate products,True
+valid lifecycle labels,True
+scores in 0-1,True
+no negative demand,True
+successor IDs valid or blank,True

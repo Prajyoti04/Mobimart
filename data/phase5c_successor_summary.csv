@@ -1,0 +1,8 @@
+successor_model_id,predecessor_models,stores,recommended_units,recommended_value,successor_model_name
+MD010,1,5,5,49000.0,Orbil Ember 2
+MD012,1,1,1,9100.0,Halex Max 2
+MD016,1,7,10,233000.0,Nubira Fuse 2
+MD019,1,1,1,25600.0,Corvo Pixel 2
+MD021,1,6,8,201600.0,Zentro Wave 2
+MD038,1,4,6,239400.0,Zentro Volt 2
+MD050,1,1,1,97100.0,Zentro Nova 2

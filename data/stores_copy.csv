@@ -1,0 +1,26 @@
+store_id,store_name,city,tier,location_type,store_size,footfall_index,income_index,premium_affinity,midrange_affinity,budget_affinity,keypad_affinity
+ST001,MobiMart Indiranagar - Premium Mall,Indiranagar,Tier 1,Premium Mall,Medium,0.982,1.282,0.4226,0.2954,0.1936,0.0884
+ST002,MobiMart Koramangala - High Street,Koramangala,Tier 1,High Street,Medium,1.138,1.033,0.3264,0.3461,0.2073,0.1202
+ST003,MobiMart MG Road - Premium Mall,MG Road,Tier 1,Premium Mall,Large,0.984,1.208,0.385,0.3697,0.1998,0.0456
+ST004,MobiMart Whitefield (ITPL) - Tech Park Hub,Whitefield (ITPL),Tier 1,Tech Park Hub,Medium,0.607,1.089,0.3178,0.3956,0.1916,0.0949
+ST005,MobiMart Electronic City - Tech Park Hub,Electronic City,Tier 1,Tech Park Hub,Large,0.666,1.136,0.3532,0.334,0.2389,0.0739
+ST006,MobiMart Jayanagar - High Street,Jayanagar,Tier 1,High Street,Medium,1.049,0.942,0.3162,0.2854,0.2812,0.1172
+ST007,MobiMart Rajajinagar - Metro Market,Rajajinagar,Tier 1,Metro Market,Medium,0.709,0.909,0.3234,0.2901,0.2783,0.1083
+ST008,MobiMart Yeshwanthpur - Suburban Mall,Yeshwanthpur,Tier 1,Suburban Mall,Medium,0.835,1.016,0.3967,0.3414,0.2023,0.0596
+ST009,MobiMart Mysore - Town Center,Mysore,Tier 2,Town Center,Medium,0.546,0.824,0.1392,0.3546,0.3451,0.1611
+ST010,MobiMart Mysore - Local Market,Mysore,Tier 2,Local Market,Medium,0.61,0.616,0.0833,0.2686,0.3751,0.273
+ST011,MobiMart Hubli - Town Center,Hubli,Tier 2,Town Center,Medium,0.592,0.795,0.0946,0.3018,0.4183,0.1854
+ST012,MobiMart Hubli - Highway Store,Hubli,Tier 2,Highway Store,Small,0.454,0.61,0.1053,0.3568,0.3544,0.1834
+ST013,MobiMart Tumkur - Local Market,Tumkur,Tier 3,Local Market,Medium,0.577,0.556,0.0155,0.2286,0.4083,0.3476
+ST014,MobiMart Tumkur - Town Center,Tumkur,Tier 3,Town Center,Medium,0.656,0.76,0.0444,0.2228,0.391,0.3419
+ST015,MobiMart Davangere - Local Market,Davangere,Tier 3,Local Market,Medium,0.631,0.577,0.0143,0.1861,0.4735,0.3261
+ST016,MobiMart Davangere - Town Center,Davangere,Tier 3,Town Center,Medium,0.587,0.779,0.0653,0.1861,0.37,0.3786
+ST017,MobiMart Belagavi - Town Center,Belagavi,Tier 2,Town Center,Medium,0.768,0.78,0.1117,0.3222,0.4227,0.1434
+ST018,MobiMart Mangaluru - High Street,Mangaluru,Tier 2,High Street,Medium,0.893,1.149,0.1718,0.2881,0.3991,0.141
+ST019,MobiMart Mangaluru - Town Center,Mangaluru,Tier 2,Town Center,Medium,0.504,0.707,0.1378,0.3199,0.3508,0.1915
+ST020,MobiMart Shivamogga - Local Market,Shivamogga,Tier 3,Local Market,Small,0.622,0.583,0.0435,0.1739,0.473,0.3097
+ST021,MobiMart Ballari - Local Market,Ballari,Tier 3,Local Market,Medium,0.407,0.689,0.0143,0.1909,0.5149,0.28
+ST022,MobiMart Kalaburagi - Town Center,Kalaburagi,Tier 3,Town Center,Medium,0.735,0.654,0.0254,0.1477,0.3854,0.4415
+ST023,MobiMart Udupi - Local Market,Udupi,Tier 3,Local Market,Medium,0.512,0.656,0.0229,0.2331,0.3562,0.3878
+ST024,MobiMart Hassan - Local Market,Hassan,Tier 3,Local Market,Medium,0.578,0.587,0.0144,0.2451,0.4594,0.2811
+ST025,MobiMart Vijayapura - Town Center,Vijayapura,Tier 3,Town Center,Medium,0.517,0.694,0.0178,0.2164,0.4726,0.2933

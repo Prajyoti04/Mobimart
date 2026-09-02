@@ -1,0 +1,3 @@
+strategy,allocated_units,allocated_value,budget_utilization_pct,forecast_fill_rate_pct,unmet_forecast_units,store_coverage,model_coverage,units_per_₹_lakh
+Naive proportional,606,14343000.0,35.857499999999995,61.93152784874808,372.5,25,27,4.225057519347416
+MobiMart optimizer,610,14522600.0,36.3065,62.340316811446094,368.5,25,27,4.200349799622657

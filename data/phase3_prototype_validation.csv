@@ -1,0 +1,9 @@
+check,passed
+5 stores,True
+10 models,True
+one forecast per store-model,True
+no negative baseline,True
+no negative enhanced,True
+valid store IDs,True
+valid model IDs,True
+no pre-launch demand,True

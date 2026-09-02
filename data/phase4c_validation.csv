@@ -1,0 +1,9 @@
+check,passed
+naive budget <= ₹4 crore,True
+optimizer budget <= ₹4 crore,True
+naive non-negative,True
+optimizer non-negative,True
+naive <= supply,True
+optimizer <= supply,True
+naive <= forecast,True
+optimizer <= forecast,True

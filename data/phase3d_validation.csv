@@ -1,0 +1,9 @@
+check,passed
+25 stores,True
+60 models,True
+1500 forecasts,True
+no duplicates,True
+no negatives,True
+valid IDs,True
+pre-launch zero,True
+4 cutoffs,True

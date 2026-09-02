@@ -1,0 +1,7 @@
+check,passed
+all transfer successor IDs valid,True
+all predecessor IDs valid,True
+transfer units non-negative,True
+no transfer to self,True
+all stores valid,True
+no duplicate store-predecessor-successor,True

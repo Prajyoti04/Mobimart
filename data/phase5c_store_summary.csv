@@ -1,0 +1,26 @@
+store_id,store_segment,tier,transfer_lines,recommended_transfer_units,recommended_transfer_value
+ST001,Premium,Tier 1,2.0,3.0,90300.0
+ST002,Premium,Tier 1,1.0,1.0,39900.0
+ST003,Premium,Tier 1,2.0,3.0,86500.0
+ST004,Premium,Tier 1,0.0,0.0,0.0
+ST005,Premium,Tier 1,2.0,4.0,143000.0
+ST006,Premium,Tier 1,1.0,1.0,25600.0
+ST007,Premium,Tier 1,0.0,0.0,0.0
+ST008,Premium,Tier 1,1.0,1.0,97100.0
+ST009,Value,Tier 2,1.0,1.0,9800.0
+ST010,Value,Tier 2,0.0,0.0,0.0
+ST011,Value,Tier 2,1.0,1.0,23300.0
+ST012,Value,Tier 2,0.0,0.0,0.0
+ST013,Value,Tier 3,3.0,4.0,83500.0
+ST014,Value,Tier 3,0.0,0.0,0.0
+ST015,Value,Tier 3,1.0,2.0,46600.0
+ST016,Value,Tier 3,0.0,0.0,0.0
+ST017,Value,Tier 2,1.0,1.0,9800.0
+ST018,Value,Tier 2,1.0,1.0,9800.0
+ST019,Balanced,Tier 2,0.0,0.0,0.0
+ST020,Value,Tier 3,3.0,3.0,58300.0
+ST021,Value,Tier 3,1.0,1.0,25200.0
+ST022,Value,Tier 3,1.0,1.0,25200.0
+ST023,Value,Tier 3,0.0,0.0,0.0
+ST024,Value,Tier 3,3.0,4.0,80900.0
+ST025,Value,Tier 3,0.0,0.0,0.0

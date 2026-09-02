@@ -1,0 +1,8 @@
+check,passed
+60 products represented,True
+no duplicate models,True
+markdown between 0 and 25%,True
+clearance price <= original,True
+clearance price positive,True
+clearance units non-negative,True
+successor IDs valid,True

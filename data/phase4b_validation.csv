@@ -1,0 +1,9 @@
+check,passed
+budget <= ₹4 crore,True
+integer allocation,True
+allocation <= store demand,True
+allocation <= product supply,True
+no negative allocation,True
+all 25 stores,True
+all 60 models,True
+no duplicate store-model,True
