@@ -34,3 +34,9 @@ Actual on-hand inventory, supplier lead times, purchase orders, transfer logisti
 constraints, and realized future demand are not included in the supplied data.
 Where required, the project uses explicit planning assumptions rather than
 presenting those values as observed facts.
+
+## 🚀 Live Demo
+
+The MobiMart Inventory & Allocation Optimizer is deployed and available here:
+
+🔗 **Live Application:** [MobiMart Optimizer](https://mobimart-ancxxfiq6nelx6jhible6q.streamlit.app/)
